@@ -1,5 +1,6 @@
 # Strapi plugin sso
 
+### ! 本项目仅作为个人开发，本人不承担任何法律责任，建议使用官方gold版本
 ### 目前仅支持 azure_ad_oauth2
 
 ### 配置示例
